@@ -15,7 +15,12 @@
 Recommended setting for the new repository:
 
 ![Pull requests settings](docs/pull-requests.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foliversalzburg%2Fyarn3-typescript-nodejs-esbuild.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foliversalzburg%2Fyarn3-typescript-nodejs-esbuild?ref=badge_shield)
 
 ![Branch protection settings](docs/branch-protection-rules.png)
 
 ![Actions permissions settings](docs/actions-permissions.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foliversalzburg%2Fyarn3-typescript-nodejs-esbuild.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foliversalzburg%2Fyarn3-typescript-nodejs-esbuild?ref=badge_large)
